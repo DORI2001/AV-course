@@ -1,11 +1,6 @@
 # Path Planning using A-star Algorithm
 
-[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)]
----
 
-
-### Author
-Arpit Aggarwal
 
 
 ### Introduction to the Project
